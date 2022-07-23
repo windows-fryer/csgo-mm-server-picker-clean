@@ -191,22 +191,3 @@
   font-size: revert;
   font-weight: bold;
 }
-
-.footer-bot {
-  height: 90%;
-  width: 100%;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  background-image: url("../img/CSGOEmpire.gif");
-  background-size: 100%;
-}
-
-.main-footer {
-  height: 26.5%;
-  width: 100%;
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  cursor: pointer;
-}
